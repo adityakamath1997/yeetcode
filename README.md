@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityakamath1997/yeetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/adityakamath1997/yeetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityakamath1997/yeetcode/tree/master/0027-remove-element) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/adityakamath1997/yeetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityakamath1997/yeetcode/tree/master/0027-remove-element) |
 ## Hash Table
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityakamath1997/yeetcode/tree/master/0013-roman-to-integer) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/adityakamath1997/yeetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
