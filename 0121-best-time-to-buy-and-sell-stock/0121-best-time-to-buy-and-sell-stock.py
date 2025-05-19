@@ -5,18 +5,15 @@ class Solution(object):
         :rtype: int
         """
         max_price=0
-        l=0
-        r=1
+        l,r=0,1
 
-        while r<=len(prices)-1:
-            max_price=max(max_price,(prices[r]-prices[l]))
-            if prices[r]<=prices[l]:
+        while r<len(prices):
+            max_price=max(max_price,prices[r]-prices[l])
+            if prices[l]>=prices[r]:
                 l=r
                 r+=1
             else:
                 r+=1
-            print(l,r)
-            
-
         return max_price
+        
 
