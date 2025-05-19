@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adityakamath1997/yeetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakamath1997/yeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/adityakamath1997/yeetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/adityakamath1997/yeetcode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityakamath1997/yeetcode/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/adityakamath1997/yeetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityakamath1997/yeetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/adityakamath1997/yeetcode/tree/master/0013-roman-to-integer) |
+| [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -52,5 +55,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/adityakamath1997/yeetcode/tree/master/0414-third-maximum-number) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
