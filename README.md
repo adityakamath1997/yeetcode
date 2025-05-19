@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityakamath1997/yeetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakamath1997/yeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0414-third-maximum-number](https://github.com/adityakamath1997/yeetcode/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakamath1997/yeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/adityakamath1997/yeetcode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
