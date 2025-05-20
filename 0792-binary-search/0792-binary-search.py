@@ -9,6 +9,7 @@ class Solution:
                 L=mid+1
             elif target<nums[mid]:
                 R=mid-1
-            elif target==nums[mid]:
+            else:
                 return mid
         return -1
+        
