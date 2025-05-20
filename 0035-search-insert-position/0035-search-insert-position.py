@@ -3,7 +3,7 @@ class Solution:
         l=0
         r=len(nums)-1
 
-        for i in range(len(nums)):
+        while l<=r:
             mid=(l+r)//2
 
             if target>nums[mid]:
