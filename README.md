@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/adityakamath1997/yeetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakamath1997/yeetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/adityakamath1997/yeetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakamath1997/yeetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
