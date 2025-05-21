@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/adityakamath1997/yeetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
+| [0605-can-place-flowers](https://github.com/adityakamath1997/yeetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityakamath1997/yeetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityakamath1997/yeetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/adityakamath1997/yeetcode/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
 | ------- |
