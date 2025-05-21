@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [1894-merge-strings-alternately](https://github.com/adityakamath1997/yeetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityakamath1997/yeetcode/tree/master/0013-roman-to-integer) |
+| [1894-merge-strings-alternately](https://github.com/adityakamath1997/yeetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
