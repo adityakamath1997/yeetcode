@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adityakamath1997/yeetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityakamath1997/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/adityakamath1997/yeetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/adityakamath1997/yeetcode/tree/master/1894-merge-strings-alternately) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/adityakamath1997/yeetcode/tree/master/0013-roman-to-integer) |
+| [0392-is-subsequence](https://github.com/adityakamath1997/yeetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/adityakamath1997/yeetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/adityakamath1997/yeetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakamath1997/yeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/adityakamath1997/yeetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
