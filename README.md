@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adityakamath1997/yeetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adityakamath1997/yeetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adityakamath1997/yeetcode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/adityakamath1997/yeetcode/tree/master/1013-fibonacci-number) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakamath1997/yeetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakamath1997/yeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/adityakamath1997/yeetcode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/adityakamath1997/yeetcode/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adityakamath1997/yeetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/adityakamath1997/yeetcode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/adityakamath1997/yeetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
