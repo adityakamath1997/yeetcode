@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityakamath1997/yeetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakamath1997/yeetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
