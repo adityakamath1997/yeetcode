@@ -1,16 +1,14 @@
 class Solution(object):
     def isPalindrome(self, x):
-        
 
-        def reverse(n):
-            q=0
-            r=0
-            while n>0:
-                r=n%10
-                q=q*10+r
-                n=n//10
-            return q
-        if x==reverse(x):
-            return True
-        return False
+        if x<0:
+            return False
+        
+        original=x
+        rev=0
+
+        while x>0:
+            rev=rev*10 + x%10
+            x=x//10
+        return original==rev
         
