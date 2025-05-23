@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/adityakamath1997/yeetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
+| [0575-distribute-candies](https://github.com/adityakamath1997/yeetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/adityakamath1997/yeetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakamath1997/yeetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0575-distribute-candies](https://github.com/adityakamath1997/yeetcode/tree/master/0575-distribute-candies) |
 ## Stack
 |  |
 | ------- |
