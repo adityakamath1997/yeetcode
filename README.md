@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adityakamath1997/yeetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/adityakamath1997/yeetcode/tree/master/0575-distribute-candies) |
+| [0598-range-addition-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/adityakamath1997/yeetcode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adityakamath1997/yeetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adityakamath1997/yeetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adityakamath1997/yeetcode/tree/master/0189-rotate-array) |
+| [0598-range-addition-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0598-range-addition-ii) |
 | [1013-fibonacci-number](https://github.com/adityakamath1997/yeetcode/tree/master/1013-fibonacci-number) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakamath1997/yeetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
