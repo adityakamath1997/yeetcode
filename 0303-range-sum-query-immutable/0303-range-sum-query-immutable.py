@@ -8,10 +8,8 @@ class NumArray(object):
         
 
     def sumRange(self, left, right):
-        summ=0
-        for i in range(left,right+1):
-            summ+=self.nums[i]
-        return summ
+        
+        return sum(self.nums[left:right+1])
 
         
 
