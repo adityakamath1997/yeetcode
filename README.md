@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/adityakamath1997/yeetcode/tree/master/0228-summary-ranges) |
 | [0260-single-number-iii](https://github.com/adityakamath1997/yeetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/adityakamath1997/yeetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adityakamath1997/yeetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/adityakamath1997/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityakamath1997/yeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityakamath1997/yeetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/adityakamath1997/yeetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakamath1997/yeetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/adityakamath1997/yeetcode/tree/master/0575-distribute-candies) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adityakamath1997/yeetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adityakamath1997/yeetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adityakamath1997/yeetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/adityakamath1997/yeetcode/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0598-range-addition-ii) |
 | [1013-fibonacci-number](https://github.com/adityakamath1997/yeetcode/tree/master/1013-fibonacci-number) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakamath1997/yeetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/adityakamath1997/yeetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/adityakamath1997/yeetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adityakamath1997/yeetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/adityakamath1997/yeetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/adityakamath1997/yeetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/adityakamath1997/yeetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/adityakamath1997/yeetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/adityakamath1997/yeetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityakamath1997/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
@@ -128,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/adityakamath1997/yeetcode/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/adityakamath1997/yeetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/adityakamath1997/yeetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/adityakamath1997/yeetcode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
 ## Linked List
