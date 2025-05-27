@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/adityakamath1997/yeetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityakamath1997/yeetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adityakamath1997/yeetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakamath1997/yeetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakamath1997/yeetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/adityakamath1997/yeetcode/tree/master/0575-distribute-candies) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adityakamath1997/yeetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/adityakamath1997/yeetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adityakamath1997/yeetcode/tree/master/0303-range-sum-query-immutable) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
