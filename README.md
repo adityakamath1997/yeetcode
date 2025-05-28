@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityakamath1997/yeetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityakamath1997/yeetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/adityakamath1997/yeetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adityakamath1997/yeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/adityakamath1997/yeetcode/tree/master/0189-rotate-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityakamath1997/yeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/adityakamath1997/yeetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/adityakamath1997/yeetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/adityakamath1997/yeetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/adityakamath1997/yeetcode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/adityakamath1997/yeetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
