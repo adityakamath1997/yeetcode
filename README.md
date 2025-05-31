@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/adityakamath1997/yeetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/adityakamath1997/yeetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/adityakamath1997/yeetcode/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/adityakamath1997/yeetcode/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/adityakamath1997/yeetcode/tree/master/0605-can-place-flowers) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/adityakamath1997/yeetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/adityakamath1997/yeetcode/tree/master/0506-relative-ranks) |
 | [1137-height-checker](https://github.com/adityakamath1997/yeetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/adityakamath1997/yeetcode/tree/master/1395-minimum-time-visiting-all-points) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/adityakamath1997/yeetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
