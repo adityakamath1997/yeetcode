@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/adityakamath1997/yeetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/adityakamath1997/yeetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/adityakamath1997/yeetcode/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/adityakamath1997/yeetcode/tree/master/0605-can-place-flowers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/adityakamath1997/yeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adityakamath1997/yeetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/adityakamath1997/yeetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/adityakamath1997/yeetcode/tree/master/0575-distribute-candies) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adityakamath1997/yeetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/adityakamath1997/yeetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/adityakamath1997/yeetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/adityakamath1997/yeetcode/tree/master/0392-is-subsequence) |
+| [0500-keyboard-row](https://github.com/adityakamath1997/yeetcode/tree/master/0500-keyboard-row) |
 | [1894-merge-strings-alternately](https://github.com/adityakamath1997/yeetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
