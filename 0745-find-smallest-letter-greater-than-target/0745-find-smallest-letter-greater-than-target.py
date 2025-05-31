@@ -12,6 +12,3 @@ class Solution(object):
         if ord(letters[R])-ord(target)>0:
             return letters[R]
         return letters[0]
-
-
-        
