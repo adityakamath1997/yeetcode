@@ -3,13 +3,11 @@ class Solution(object):
         L=0
         seen=set()
         longest=0
-        n=len(s)
 
-        for R in range(n):
-            while s[R] in seen:
+        for r in range(len(s)):
+            while s[r] in seen:
                 seen.remove(s[L])
                 L+=1
-            seen.add(s[R])
-            W=(R-L)+1
-            longest=max(longest,W)
+            seen.add(s[r])
+            longest=max(longest,(r-L)+1)
         return longest
