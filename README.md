@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityakamath1997/yeetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [1046-max-consecutive-ones-iii](https://github.com/adityakamath1997/yeetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/adityakamath1997/yeetcode/tree/master/1137-height-checker) |
 | [1395-minimum-time-visiting-all-points](https://github.com/adityakamath1997/yeetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityakamath1997/yeetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/adityakamath1997/yeetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityakamath1997/yeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/adityakamath1997/yeetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/adityakamath1997/yeetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/adityakamath1997/yeetcode/tree/master/0303-range-sum-query-immutable) |
+| [1046-max-consecutive-ones-iii](https://github.com/adityakamath1997/yeetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting Sort
 |  |
 | ------- |
