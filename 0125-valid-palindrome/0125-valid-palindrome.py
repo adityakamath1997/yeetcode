@@ -9,7 +9,7 @@ class Solution(object):
         low = 0
         high = len(new_s) - 1
 
-        while low <= high:
+        while low < high:
             if new_s[low] != new_s[high]:
                 return False
             low += 1
