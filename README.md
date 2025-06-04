@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adityakamath1997/yeetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/adityakamath1997/yeetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/adityakamath1997/yeetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/adityakamath1997/yeetcode/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/adityakamath1997/yeetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adityakamath1997/yeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/adityakamath1997/yeetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/adityakamath1997/yeetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adityakamath1997/yeetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/adityakamath1997/yeetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/adityakamath1997/yeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityakamath1997/yeetcode/tree/master/0160-intersection-of-two-linked-lists) |
