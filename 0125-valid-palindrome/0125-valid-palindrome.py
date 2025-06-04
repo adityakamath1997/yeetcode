@@ -3,7 +3,7 @@ class Solution(object):
         new_s = ""
 
         for char in s:
-            if char.lower().isalnum():
+            if char.isalnum():
                 new_s += char.lower()
         print(new_s)
         low = 0
