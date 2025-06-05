@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/adityakamath1997/yeetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/adityakamath1997/yeetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/adityakamath1997/yeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adityakamath1997/yeetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/adityakamath1997/yeetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakamath1997/yeetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -280,11 +281,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/adityakamath1997/yeetcode/tree/master/0874-backspace-string-compare) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/adityakamath1997/yeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/adityakamath1997/yeetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/adityakamath1997/yeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Memoization
 |  |
 | ------- |
