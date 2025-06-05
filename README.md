@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/adityakamath1997/yeetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/adityakamath1997/yeetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/adityakamath1997/yeetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/adityakamath1997/yeetcode/tree/master/1894-merge-strings-alternately) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/adityakamath1997/yeetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/adityakamath1997/yeetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/adityakamath1997/yeetcode/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/adityakamath1997/yeetcode/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/adityakamath1997/yeetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/adityakamath1997/yeetcode/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/adityakamath1997/yeetcode/tree/master/0500-keyboard-row) |
+| [0874-backspace-string-compare](https://github.com/adityakamath1997/yeetcode/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/adityakamath1997/yeetcode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/adityakamath1997/yeetcode/tree/master/0043-multiply-strings) |
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/adityakamath1997/yeetcode/tree/master/0874-backspace-string-compare) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/adityakamath1997/yeetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
