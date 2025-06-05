@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityakamath1997/yeetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [1019-squares-of-a-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityakamath1997/yeetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/adityakamath1997/yeetcode/tree/master/1137-height-checker) |
 | [1395-minimum-time-visiting-all-points](https://github.com/adityakamath1997/yeetcode/tree/master/1395-minimum-time-visiting-all-points) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/adityakamath1997/yeetcode/tree/master/0455-assign-cookies) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/adityakamath1997/yeetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/adityakamath1997/yeetcode/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/adityakamath1997/yeetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/adityakamath1997/yeetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityakamath1997/yeetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/adityakamath1997/yeetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
