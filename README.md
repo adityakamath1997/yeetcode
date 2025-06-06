@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityakamath1997/yeetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adityakamath1997/yeetcode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/adityakamath1997/yeetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adityakamath1997/yeetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adityakamath1997/yeetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/adityakamath1997/yeetcode/tree/master/0075-sort-colors) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/adityakamath1997/yeetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/adityakamath1997/yeetcode/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/adityakamath1997/yeetcode/tree/master/0874-backspace-string-compare) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/adityakamath1997/yeetcode/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityakamath1997/yeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Memoization
