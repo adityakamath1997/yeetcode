@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityakamath1997/yeetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/adityakamath1997/yeetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/adityakamath1997/yeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityakamath1997/yeetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adityakamath1997/yeetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adityakamath1997/yeetcode/tree/master/0066-plus-one) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/adityakamath1997/yeetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/adityakamath1997/yeetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/adityakamath1997/yeetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/adityakamath1997/yeetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adityakamath1997/yeetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adityakamath1997/yeetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adityakamath1997/yeetcode/tree/master/0189-rotate-array) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adityakamath1997/yeetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adityakamath1997/yeetcode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/adityakamath1997/yeetcode/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
