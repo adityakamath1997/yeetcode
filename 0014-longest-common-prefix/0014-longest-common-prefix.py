@@ -4,6 +4,8 @@ class Solution:
         pref_len = len(pref)
 
         for s in strs[1:]:
+            pref_len = len(s)
+            pref = pref[0:pref_len]
             while pref != s[0:pref_len]:
                 pref_len -= 1
                 if pref_len == 0:
