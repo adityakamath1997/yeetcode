@@ -346,22 +346,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakamath1997/yeetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adityakamath1997/yeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adityakamath1997/yeetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakamath1997/yeetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adityakamath1997/yeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adityakamath1997/yeetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/adityakamath1997/yeetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adityakamath1997/yeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adityakamath1997/yeetcode/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/adityakamath1997/yeetcode/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/adityakamath1997/yeetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/adityakamath1997/yeetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/adityakamath1997/yeetcode/tree/master/0226-invert-binary-tree) |
 ## Merge Sort
 |  |
