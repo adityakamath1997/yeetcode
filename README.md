@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/adityakamath1997/yeetcode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adityakamath1997/yeetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/adityakamath1997/yeetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/adityakamath1997/yeetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adityakamath1997/yeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/adityakamath1997/yeetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/adityakamath1997/yeetcode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/adityakamath1997/yeetcode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adityakamath1997/yeetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/adityakamath1997/yeetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/adityakamath1997/yeetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityakamath1997/yeetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/adityakamath1997/yeetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/adityakamath1997/yeetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/adityakamath1997/yeetcode/tree/master/0169-majority-element) |
