@@ -1,11 +1,20 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        hash_map = {")": "(", "}": "{", "]": "["}
+        if not s:
+            return True
+
+        lookup= {")": "(", "}": "{", "]": "["}
         stack = []
-        for char in s:
-            if char in hash_map.values():
-                stack.append(char)
-            elif char in hash_map.keys():
-                if not stack or hash_map[char] != stack.pop():
-                    return False
+
+        for val in s:
+            if val in lookup.values():
+                stack.append(val)
+            elif stack and lookup[val] == stack[-1]:
+                stack.pop()
+            else:
+                return False
+
+        
         return not stack
+            
+        
