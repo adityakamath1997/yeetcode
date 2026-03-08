@@ -1,17 +1,5 @@
-class Solution(object):
-    def strStr(self, haystack, needle):
-        if haystack==needle:
-            return 0
-        n,m=len(needle),len(haystack)
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
 
-        W=haystack[:n]
-
-        for i in range(n,m):
-            if W==needle:
-                return i-n
-            else:
-                W=W[1:]+haystack[i]
-                
-        if W==needle:
-            return m-n
-        return -1
+        return haystack.find(needle)
+        
