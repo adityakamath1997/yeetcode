@@ -1,18 +1,11 @@
-class Solution(object):
-    def isPalindrome(self, s):
-        new_s = []
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
 
+        stripped_s = ""
+        
         for char in s:
             if char.isalnum():
-                new_s.append(char.lower())
-        new_s = ''.join(new_s)
-        low = 0
-        high = len(new_s) - 1
+                stripped_s += char
 
-        while low < high:
-            if new_s[low] != new_s[high]:
-                return False
-            low += 1
-            high -= 1
-        return True
+        return stripped_s.lower() == stripped_s.lower()[::-1]
         
