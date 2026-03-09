@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/adityakamath1997/yeetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/adityakamath1997/yeetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/adityakamath1997/yeetcode/tree/master/0867-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityakamath1997/yeetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/adityakamath1997/yeetcode/tree/master/1137-height-checker) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adityakamath1997/yeetcode/tree/master/0054-spiral-matrix) |
 | [0495-teemo-attacking](https://github.com/adityakamath1997/yeetcode/tree/master/0495-teemo-attacking) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/adityakamath1997/yeetcode/tree/master/0867-transpose-matrix) |
 | [0874-backspace-string-compare](https://github.com/adityakamath1997/yeetcode/tree/master/0874-backspace-string-compare) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityakamath1997/yeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/adityakamath1997/yeetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/adityakamath1997/yeetcode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/adityakamath1997/yeetcode/tree/master/0463-island-perimeter) |
 | [0861-flipping-an-image](https://github.com/adityakamath1997/yeetcode/tree/master/0861-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/adityakamath1997/yeetcode/tree/master/0867-transpose-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/adityakamath1997/yeetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Memoization
 |  |
