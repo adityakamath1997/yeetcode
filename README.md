@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/adityakamath1997/yeetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/adityakamath1997/yeetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/adityakamath1997/yeetcode/tree/master/1137-height-checker) |
+| [1266-minimum-time-visiting-all-points](https://github.com/adityakamath1997/yeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1395-minimum-time-visiting-all-points](https://github.com/adityakamath1997/yeetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/adityakamath1997/yeetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/adityakamath1997/yeetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adityakamath1997/yeetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/adityakamath1997/yeetcode/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/adityakamath1997/yeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1395-minimum-time-visiting-all-points](https://github.com/adityakamath1997/yeetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/adityakamath1997/yeetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/adityakamath1997/yeetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/adityakamath1997/yeetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1395-minimum-time-visiting-all-points](https://github.com/adityakamath1997/yeetcode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Heap (Priority Queue)
 |  |
