@@ -1,7 +1,7 @@
 class Solution:
     def missingNumber(self, nums: List[int]) -> int:
-        n = len(nums) + 1
-        summ1 = sum(nums)
-        summ2 = n * (n-1) // 2
-        return summ2 - summ1
-        
+        vals = len(nums)
+        temp = set(range(vals + 1))
+        nums_set = set(nums)
+
+        return int(list(temp - nums_set)[0])
