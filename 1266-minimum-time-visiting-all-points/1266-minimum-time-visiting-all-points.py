@@ -7,7 +7,7 @@ class Solution:
             x2, y2 = points.pop()
             sum_coords += max(abs(y2 - y1), abs(x2 - x1))
             x1, y1 = x2, y2
-
+        
         return sum_coords
 
 
