@@ -1,18 +1,19 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        
+        temp = dict()
+
         if len(s) != len(t):
             return False
 
-        counter = {}
-
         for char in s:
-            counter[char] = counter.get(char, 0) + 1
-        
+            temp[char] = temp.get(char, 0) + 1
+
         for char in t:
-            if char not in counter or counter[char] == 0:
+            if char not in temp or temp[char] == 0:
                 return False
-            counter[char] -= 1
-        
+            else:
+                temp[char] -= 1
+
         return True
+
         
