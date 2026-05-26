@@ -11,8 +11,7 @@ class Solution:
         for char in t:
             if char not in temp or temp[char] == 0:
                 return False
-            else:
-                temp[char] -= 1
+            temp[char] -= 1
 
         return True
 
