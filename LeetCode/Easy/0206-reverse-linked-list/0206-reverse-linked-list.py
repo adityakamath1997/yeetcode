@@ -7,13 +7,12 @@ class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         node = None
 
-        while head:
-            temp = head.next
-            head.next = node
-            node = head
-            head = temp
+        curr = head
+
+        while curr:
+            temp = curr.next
+            curr.next = node
+            node = curr
+            curr = temp
 
         return node
-
-            
-        
