@@ -1,14 +1,14 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
+        seen = defaultdict(int)
         
-        counter = dict()
-
+        # char -> count
         for char in magazine:
-            counter[char] = counter.get(char, 0) + 1
+            seen[char] += 1
 
         for char in ransomNote:
-            if char not in counter or counter[char] <= 0:
+            if char not in seen or seen[char] == 0:
                 return False
-            counter[char] -= 1
+            seen[char] -= 1
 
         return True
