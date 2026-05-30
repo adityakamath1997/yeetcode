@@ -1,22 +1,21 @@
 class Solution:
     def longestPalindrome(self, s: str) -> int:
-        
-        count = dict()
-        length = 0
+        seen = defaultdict(int)
         odd = False
+        count = 0
 
-        for c in s:
-            count[c] = count.get(c, 0) + 1
+        for char in s:
+            seen[char] += 1
 
-        for c in count.values():
-            if c % 2 == 0:
-                length += c
+        for value in seen.values():
+            if value % 2 == 0:
+                count += value
             else:
-                length += c - 1
+                count += value - 1
                 odd = True
-        
-        if odd:
-            length += 1
 
-        return length
+        count += 1 if odd else 0
+
+        return count
+
         
