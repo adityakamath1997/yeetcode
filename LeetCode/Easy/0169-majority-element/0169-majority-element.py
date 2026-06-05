@@ -1,13 +1,11 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
+        seen = defaultdict(int)
 
         n = len(nums)
-        temp = dict()
-        count = n // 2
+        target = n // 2
 
         for num in nums:
-            temp[num] = temp.get(num, 0) + 1
-            if temp[num] > count:
+            seen[num] += 1
+            if seen[num] > target:
                 return num
-
-        
