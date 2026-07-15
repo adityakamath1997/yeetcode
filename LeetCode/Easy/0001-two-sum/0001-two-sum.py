@@ -7,6 +7,7 @@ class Solution:
             if diff in seen:
                 return [seen[diff], idx]
             seen[num] = idx
-            
+
+        
 
         
