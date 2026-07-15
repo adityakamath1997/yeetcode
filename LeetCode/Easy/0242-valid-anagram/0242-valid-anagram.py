@@ -1,20 +1,21 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-
         if len(s) != len(t):
             return False
 
-        seen = defaultdict(int)
-        
-        # char -> count
+        counts = dict()
+
         for char in s:
-            seen[char] += 1
+            counts[char] = counts.get(char, 0) + 1
 
         for char in t:
-            if char not in seen or seen[char] == 0:
+            if char not in counts:
                 return False
-            seen[char] -= 1
+
+            counts[char] -= 1
+
+            if counts[char] < 0:
+                return False
 
         return True
-            
         
