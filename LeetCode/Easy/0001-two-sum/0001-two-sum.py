@@ -9,5 +9,4 @@ class Solution:
             seen[num] = idx
 
         
-
         
