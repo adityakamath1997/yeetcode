@@ -3,18 +3,18 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        counts = dict()
+        seen = dict()
 
         for char in s:
-            counts[char] = counts.get(char, 0) + 1
+            seen[char] = seen.get(char, 0) + 1
 
         for char in t:
-            if char not in counts:
+            if char not in seen:
                 return False
 
-            counts[char] -= 1
+            seen[char] -= 1
 
-            if counts[char] < 0:
+            if seen[char] < 0:
                 return False
 
         return True
